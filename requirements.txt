@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+ipykernel
+langchain_groq
+langchain_google_genai
+-e . # it is for (Document_PORTAL) local package installation
