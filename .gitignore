@@ -1,5 +1,5 @@
 .env
 *.env
-env/
+env1/
 venv/
 __pycache__/
